@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: "Arial","Meiryo",sans-serif;
+}
+
+html{
+    font-size: 20px;
+}
+
+.decoration1{
+    color: skyblue;
+}
+
+.decoration2{
+    color: rgb(255,192,203);
+}
+
+h1{
+    font-family: 'Noto Serif JP', serif;
+    letter-spacing: 1.2em;
+    border-bottom: solid 3px rgb(115,115,114);
+    text-shadow: 1px 5px 10px grey;
+}
+
+#basic p{
+    font-weight: bolder;
+}
